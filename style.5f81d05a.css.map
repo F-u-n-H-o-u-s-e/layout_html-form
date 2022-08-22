@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,QACE,aACF,CAEA,QACE,kBACF,CAEA,QACE,kBACF","file":"style.5f81d05a.css","sourceRoot":"..\\src","sourcesContent":["\r\n.labels {\r\n  display: block;\r\n}\r\n\r\n.groups {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.inputs {\r\n  margin-bottom: 10px;\r\n}\r\n"]}
